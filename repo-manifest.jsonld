@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/synphot_refactor/commit/a308c5ac1a3e332791f900fc2e51dd274a7afc54",
       "git:hexsha": "a308c5ac1a3e332791f900fc2e51dd274a7afc54",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/synphot_refactor/commit/21be4b8e0046e14b94742bdd2479892c5429c7fc",
